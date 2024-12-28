@@ -12,7 +12,7 @@ body {
   /* Styling for the entire app container */
   .app-container {
     text-align: center;
-    background-image: url('/back.jpg');
+    background-image: url('/back.jpg'); /* Path relative to public folder */
     background-size: cover;
     background-position: center;
     width: 100%;
